@@ -1,0 +1,24 @@
+{
+    "name"       : "deport",
+    "version"    : "1.0.0",
+    "description": "A NodeJS Global Dependency Manager",
+    "main"       : "index.js",
+    "bin"        : {
+        "deport": "./index.js"
+    },
+    "repository" : {
+        "type": "git",
+        "url" : "git+ssh://git@github.com/cobolab/deport.git"
+    },
+    "keywords"   : [
+        "global",
+        "dependency",
+        "manager"
+    ],
+    "author"     : "Nanang Mahdaen El Agung <nanang@mahdaen.name>",
+    "license"    : "MIT",
+    "bugs"       : {
+        "url": "https://github.com/cobolab/deport/issues"
+    },
+    "homepage"   : "https://github.com/cobolab/deport#readme"
+}
